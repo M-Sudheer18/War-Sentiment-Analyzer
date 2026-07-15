@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+scikit-learn
+nltk
+huggingface_hub
+h5py

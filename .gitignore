@@ -1,0 +1,6 @@
+sent_env/
+__pycache__/
+*.pyc
+Models/
+Testing/
+.vscode/
